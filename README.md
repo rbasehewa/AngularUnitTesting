@@ -1,6 +1,6 @@
 # AngularUnitTesting
 
-Angular: Unit Testing Jasmine, Karma
+Angular: Unit Testing Jasmine, Karma (Function test not the HTML)
 
 ## Benefits of Unit Testing
 
@@ -25,4 +25,11 @@ Angular: Unit Testing Jasmine, Karma
 Install angular-cli and create a new project:
 
 - npm install -g @angular/cli
-- ng new ANGULARUNITTESTING
+- ng new ANGULAR-UNIT-TESTING
+
+* angular-cli file (Configure install NPM karma-coverage-istanbul-reporter)
+* test.ts file to add Karma varibles (all codes are commented for the refferences)
+
+### refference
+
+https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4
