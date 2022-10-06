@@ -30,6 +30,11 @@ Install angular-cli and create a new project:
 * angular-cli file (Configure install NPM karma-coverage-istanbul-reporter)
 * test.ts file to add Karma varibles (all codes are commented for the refferences)
 
+## future integration
+
+- HTML unit testing
+- regression testing
+
 ### refference
 
 https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4
